@@ -1,4 +1,7 @@
-
+.vscode/
+__pycache__
+.ipynb_checkpoints
+.DS_Store
 # macOS specific
 .DS_Store
 .AppleDouble
